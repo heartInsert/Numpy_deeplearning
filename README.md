@@ -1,0 +1,2 @@
+# Numpy_deeplearning
+纯python和numpy实现的静态图深度学习框架
